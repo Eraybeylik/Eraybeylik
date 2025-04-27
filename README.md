@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Eray </h2>
+<h2 align="left">Hi 👋, I'm Eray </h2>
 
 ###
 
@@ -10,25 +10,36 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  <a href="https://www.linkedin.com/in/eray-beylik" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="https://tryhackme.com/p/XeraE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="TryHackMe logo" />
+  </a>
+  <a href="https://medium.com/@eraybeylik3" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium logo" />
+  </a>
+  <a href="https://app.hackthebox.com/profile/#2091058" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=9FEF00&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="HackTheBox logo" />
+</a>
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Eraybeylik/Eraybeylik/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Eraybeylik/Eraybeylik/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
