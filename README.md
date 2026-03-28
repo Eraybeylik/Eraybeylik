@@ -29,7 +29,7 @@
   <a href="https://medium.com/@eraybeylik3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium logo" />
   </a>
-  <a href="[https://app.hackthebox.com/profile/#2091058](https://app.hackthebox.com/users/2091058)" target="_blank">
+  <a href="https://app.hackthebox.com/users/2091058" target="_blank">
   <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=9FEF00&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="HackTheBox logo" />
 </a>
 </div>
